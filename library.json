@@ -1,5 +1,5 @@
 {
-    "name": "tinyfsm",
+##  "name": "tinyfsm",
     "description": "A simple C++ finite state machine library",
     "version": "0.3.3",
     "repository": {
@@ -22,3 +22,4 @@
         ]
     }
 }
+ 
